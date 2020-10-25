@@ -13,7 +13,7 @@ namespace WarenNummerApi.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Shahed", "Adnan", "Rifat", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Shahed", "Adnan", "Mohammed", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;

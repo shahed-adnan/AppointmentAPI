@@ -5076,11 +5076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Academic Disk\\FLATPRO SYSTEMS\\FLATPRO-SNS\\WarenNummerAPI\\WarenNummerApi\\WarenNummerApi\\WarenNummerApi.csproj",
+      "projectUniqueName": "F:\\Academic Disk\\FLATPRO SYSTEMS\\FLATPRO-SNS\\WarenNummerAPI\\FlatProSNS\\WarenNummerApi\\WarenNummerApi\\WarenNummerApi.csproj",
       "projectName": "WarenNummerApi",
-      "projectPath": "F:\\Academic Disk\\FLATPRO SYSTEMS\\FLATPRO-SNS\\WarenNummerAPI\\WarenNummerApi\\WarenNummerApi\\WarenNummerApi.csproj",
+      "projectPath": "F:\\Academic Disk\\FLATPRO SYSTEMS\\FLATPRO-SNS\\WarenNummerAPI\\FlatProSNS\\WarenNummerApi\\WarenNummerApi\\WarenNummerApi.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "F:\\Academic Disk\\FLATPRO SYSTEMS\\FLATPRO-SNS\\WarenNummerAPI\\WarenNummerApi\\WarenNummerApi\\obj\\",
+      "outputPath": "F:\\Academic Disk\\FLATPRO SYSTEMS\\FLATPRO-SNS\\WarenNummerAPI\\FlatProSNS\\WarenNummerApi\\WarenNummerApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
